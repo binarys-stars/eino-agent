@@ -21,8 +21,8 @@ import (
 
 	"github.com/cloudwego/eino/compose"
 
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/consts"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/model"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/consts"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/model"
 )
 
 func routerHuman(ctx context.Context, input string, opts ...any) (output string, err error) {

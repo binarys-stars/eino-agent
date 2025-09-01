@@ -33,11 +33,11 @@ import (
 	"github.com/cloudwego/hertz/pkg/app/server"
 	"github.com/hertz-contrib/cors"
 
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/consts"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/eino"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/infra"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/model"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/conf"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/consts"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/eino"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/infra"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/model"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/conf"
 	hertztracing "github.com/hertz-contrib/obs-opentelemetry/tracing"
 )
 

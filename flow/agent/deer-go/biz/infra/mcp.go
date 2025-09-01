@@ -27,7 +27,7 @@ import (
 	"github.com/mark3labs/mcp-go/client"
 	"github.com/mark3labs/mcp-go/mcp"
 
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/conf"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/conf"
 )
 
 const (

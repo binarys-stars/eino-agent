@@ -26,9 +26,9 @@ import (
 	"github.com/cloudwego/eino/compose"
 	"github.com/cloudwego/eino/schema"
 
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/consts"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/infra"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/model"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/consts"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/infra"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/model"
 )
 
 func loadMsg(ctx context.Context, name string, opts ...any) (output []*schema.Message, err error) {

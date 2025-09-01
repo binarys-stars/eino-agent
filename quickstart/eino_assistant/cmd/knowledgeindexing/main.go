@@ -23,13 +23,13 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/cloudwego/eino-examples/quickstart/eino_assistant/pkg/env"
+	"github.com/binarys-stars/eino-agent/quickstart/eino_assistant/pkg/env"
 
 	"github.com/cloudwego/eino/components/document"
 	"github.com/cloudwego/eino/components/embedding"
 	"github.com/redis/go-redis/v9"
 
-	"github.com/cloudwego/eino-examples/quickstart/eino_assistant/eino/knowledgeindexing"
+	"github.com/binarys-stars/eino-agent/quickstart/eino_assistant/eino/knowledgeindexing"
 )
 
 func init() {

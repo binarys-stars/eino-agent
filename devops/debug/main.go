@@ -24,9 +24,9 @@ import (
 
 	"github.com/cloudwego/eino-ext/devops"
 
-	"github.com/cloudwego/eino-examples/devops/debug/chain"
-	"github.com/cloudwego/eino-examples/devops/debug/graph"
-	"github.com/cloudwego/eino-examples/internal/logs"
+	"github.com/binarys-stars/eino-agent/devops/debug/chain"
+	"github.com/binarys-stars/eino-agent/devops/debug/graph"
+	"github.com/binarys-stars/eino-agent/internal/logs"
 )
 
 func main() {

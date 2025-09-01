@@ -27,7 +27,7 @@ import (
 	"github.com/cloudwego/eino/components/retriever"
 	"github.com/cloudwego/eino/flow/retriever/multiquery"
 
-	"github.com/cloudwego/eino-examples/internal/logs"
+	"github.com/binarys-stars/eino-agent/internal/logs"
 )
 
 func main() {

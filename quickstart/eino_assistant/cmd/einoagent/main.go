@@ -30,9 +30,9 @@ import (
 	hertztracing "github.com/hertz-contrib/obs-opentelemetry/tracing"
 	"go.opentelemetry.io/otel/attribute"
 
-	"github.com/cloudwego/eino-examples/quickstart/eino_assistant/cmd/einoagent/agent"
-	"github.com/cloudwego/eino-examples/quickstart/eino_assistant/cmd/einoagent/task"
-	"github.com/cloudwego/eino-examples/quickstart/eino_assistant/pkg/env"
+	"github.com/binarys-stars/eino-agent/quickstart/eino_assistant/cmd/einoagent/agent"
+	"github.com/binarys-stars/eino-agent/quickstart/eino_assistant/cmd/einoagent/task"
+	"github.com/binarys-stars/eino-agent/quickstart/eino_assistant/pkg/env"
 )
 
 func init() {

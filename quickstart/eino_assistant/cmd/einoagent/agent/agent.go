@@ -32,8 +32,8 @@ import (
 	"github.com/cloudwego/eino/compose"
 	"github.com/cloudwego/eino/schema"
 
-	"github.com/cloudwego/eino-examples/quickstart/eino_assistant/eino/einoagent"
-	"github.com/cloudwego/eino-examples/quickstart/eino_assistant/pkg/mem"
+	"github.com/binarys-stars/eino-agent/quickstart/eino_assistant/eino/einoagent"
+	"github.com/binarys-stars/eino-agent/quickstart/eino_assistant/pkg/mem"
 )
 
 var memory = mem.GetDefaultMemory()

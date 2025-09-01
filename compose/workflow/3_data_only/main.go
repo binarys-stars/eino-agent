@@ -21,7 +21,7 @@ import (
 
 	"github.com/cloudwego/eino/compose"
 
-	"github.com/cloudwego/eino-examples/internal/logs"
+	"github.com/binarys-stars/eino-agent/internal/logs"
 )
 
 func main() {

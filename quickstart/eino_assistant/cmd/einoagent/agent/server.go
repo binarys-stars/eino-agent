@@ -33,7 +33,7 @@ import (
 	"github.com/cloudwego/hertz/pkg/route"
 	"github.com/hertz-contrib/sse"
 
-	"github.com/cloudwego/eino-examples/quickstart/eino_assistant/pkg/mem"
+	"github.com/binarys-stars/eino-agent/quickstart/eino_assistant/pkg/mem"
 )
 
 //go:embed web

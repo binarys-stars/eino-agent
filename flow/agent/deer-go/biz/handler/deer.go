@@ -28,11 +28,11 @@ import (
 	"github.com/cloudwego/hertz/pkg/app"
 	"github.com/cloudwego/hertz/pkg/protocol/sse"
 
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/consts"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/eino"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/infra"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/model"
-	"github.com/cloudwego/eino-examples/flow/agent/deer-go/biz/util"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/consts"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/eino"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/infra"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/model"
+	"github.com/binarys-stars/eino-agent/flow/agent/deer-go/biz/util"
 )
 
 func ChatStreamEino(ctx context.Context, c *app.RequestContext) {

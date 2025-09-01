@@ -30,8 +30,8 @@ import (
 	"github.com/cloudwego/eino/schema"
 	"github.com/cloudwego/eino/utils/callbacks"
 
-	"github.com/cloudwego/eino-examples/internal/gptr"
-	"github.com/cloudwego/eino-examples/internal/logs"
+	"github.com/binarys-stars/eino-agent/internal/gptr"
+	"github.com/binarys-stars/eino-agent/internal/logs"
 )
 
 func main() {

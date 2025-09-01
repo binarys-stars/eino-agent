@@ -19,7 +19,7 @@ package main
 import (
 	"context"
 
-	"github.com/cloudwego/eino-examples/internal/logs"
+	"github.com/binarys-stars/eino-agent/internal/logs"
 )
 
 func main() {

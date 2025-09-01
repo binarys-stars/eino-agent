@@ -24,8 +24,8 @@ import (
 	"github.com/cloudwego/eino-ext/components/document/parser/pdf"
 	"github.com/cloudwego/eino/components/document/parser"
 
-	"github.com/cloudwego/eino-examples/internal/gptr"
-	"github.com/cloudwego/eino-examples/internal/logs"
+	"github.com/binarys-stars/eino-agent/internal/gptr"
+	"github.com/binarys-stars/eino-agent/internal/logs"
 )
 
 func main() {
