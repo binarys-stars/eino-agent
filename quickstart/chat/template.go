@@ -50,7 +50,7 @@ func createMessagesFromTemplate() []*schema.Message {
 		"chat_history": []*schema.Message{
 			schema.UserMessage("你好"),
 			schema.AssistantMessage("嘿！我是你的程序员女朋友，需要晚安故事还是一个吻", nil),
-			schema.UserMessage("我觉得自己写的代码太烂了"),
+			schema.UserMessage("我觉得自己没有任何优点"),
 			schema.AssistantMessage("每个程序员都经历过这个阶段！重要的是你在不断学习和进步。让我们一起看看代码，我相信通过重构和优化，它会变得更好。记住，Rome wasn't built in a day，代码质量是通过持续改进来提升的。", nil),
 		},
 	})
